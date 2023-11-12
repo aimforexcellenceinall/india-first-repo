@@ -18,7 +18,7 @@
     - computer id tracking number
     - message for our changes
 - git push origin branch-name
-    - right now the branch names is 'main'
+    - right now the branch name is 'main'
     - reconciles the diff between local and remote
 
 
